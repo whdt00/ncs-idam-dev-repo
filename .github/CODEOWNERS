@@ -1,2 +1,5 @@
-/SCM/ whdt2003@yahoo.com.sg
-/IaC/ walter.tanquintic@ncs.com.sg
+# These owners will be the default owners for everything under /SCM folder in the report.
+/SCM/ @whdt00 @whdt2003
+
+# These owners will be the default owners for everything under /IaC folder in the report.
+/IaC/ @whdt00
