@@ -1,0 +1,5 @@
+# These owners will be the default owners for everything under /SCM folder in the report.
+/SCM walter.tanquintic@ncs.com.sg
+
+# These owners will be the default owners for everything under /IaC folder in the report.
+/IaC walter.tanquintic@ncs.com.sg
